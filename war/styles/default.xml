@@ -58,7 +58,7 @@
 	</add>
 	<add as="red" extend="fancy">
 		<add as="gradientColor" value="#EA6B66"/>
-		<add as="fillColor" value="#c0392b"/>
+		<add as="fillColor" value="#C0392B"/>
 		<add as="strokeColor" value="#B85450"/>
 	</add>
 	<add as="pink" extend="fancy">
@@ -103,7 +103,7 @@
 	</add>
 	<add as="plain-red">
 		<add as="gradientColor" value="#EA6B66"/>
-		<add as="fillColor" value="#F8CECC"/>
+		<add as="fillColor" value="#C0392B"/>
 		<add as="strokeColor" value="#B85450"/>
 	</add>
 	<add as="plain-pink">
