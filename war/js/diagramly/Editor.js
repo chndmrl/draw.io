@@ -884,9 +884,9 @@
 			}
 
 			var schemes = [[null, {fill: '#f5f5f5', stroke: '#666666'},
-				{fill: '#dae8fc', stroke: '#6c8ebf'}, {fill: '#d5e8d4', stroke: '#82b366'},
-				{fill: '#ffe6cc', stroke: '#d79b00'}, {fill: '#fff2cc', stroke: '#d6b656'},
-				{fill: '#c0392b', stroke: '#b85450'}, {fill: '#e1d5e7', stroke: '#9673a6'}],
+				{fill: '#dae8fc', stroke: '#6c8ebf'}, {fill: '#6cc4bb', stroke: '#48b5a9'},
+				{fill: '#f15636', stroke: '#f76345'}, {fill: '#fff2cc', stroke: '#d6b656'},
+				{fill: '#c0392b', stroke: '#b85450'}, {fill: '#394b4b', stroke: '#242f2f'}],
 			    [null,
 				{fill: '#f5f5f5', stroke: '#666666', gradient: '#b3b3b3'},
 				{fill: '#dae8fc', stroke: '#6c8ebf', gradient: '#7ea6e0'},
